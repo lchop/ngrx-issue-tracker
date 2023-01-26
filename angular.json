@@ -102,5 +102,10 @@
       }
     }
   },
-  "defaultProject": "ngrx-issue-tracker"
+  "defaultProject": "ngrx-issue-tracker",
+  "cli": {
+    "schematicCollections": [
+      "@ngrx/schematics"
+    ]
+  }
 }
